@@ -1,0 +1,3 @@
+/home/rajat/vision_algos/sift/build/CMakeFiles/rebuild_cache.dir
+/home/rajat/vision_algos/sift/build/CMakeFiles/edit_cache.dir
+/home/rajat/vision_algos/sift/build/CMakeFiles/xyz.dir
